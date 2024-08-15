@@ -4,3 +4,4 @@ MONGO_URL =' get link from mongodb cloud for linking'\
 JWT_SECRET = 'writeanything like word password'\
 in client side do npm start\
 do split terminal and in server side do nodemon index.js\
+in server/public/uploads images are stored and path is given by mongodb
